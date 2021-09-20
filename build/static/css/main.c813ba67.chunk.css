@@ -1,0 +1,2 @@
+.todo-list{display:flex;flex-direction:column;margin:0 auto 20px}.todo-list__item{display:flex;justify-content:space-between;align-items:center;padding:5px 10px;max-width:500px;border:1px solid #d3d3d3;margin:0 auto 5px}.ant-input{box-shadow:none!important}.todo-list__btn{transition:all,.3s}.todo-list__btn:hover{color:red}.h100{height:calc(100vh - 64px)}
+/*# sourceMappingURL=main.c813ba67.chunk.css.map */
