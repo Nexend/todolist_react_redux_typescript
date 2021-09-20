@@ -1,0 +1,28 @@
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.todo-list__item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 10px;
+  max-width: 500px;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+  margin-bottom: 5px;
+}
+
+.ant-input {
+  box-shadow: none !important;
+}
+.todo-list__btn {
+  transition: all, 0.3s;
+}
+
+.todo-list__btn:hover {
+  color: red;
+}
