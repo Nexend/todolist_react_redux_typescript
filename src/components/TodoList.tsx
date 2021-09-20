@@ -13,6 +13,7 @@ const TodoList: FC = () => {
 
   useEffect(() => {
     getTodoList(token);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const handlerAddEvent = () => {
