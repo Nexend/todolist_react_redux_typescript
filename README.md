@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-You can see demo here [https://todolist-nexendy.netlify.app]
+You can see demo here [https://todolist-nexendy.netlify.app](https://todolist-nexendy.netlify.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
